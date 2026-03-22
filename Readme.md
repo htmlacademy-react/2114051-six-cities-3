@@ -1,7 +1,7 @@
 # Личный проект «Шесть городов»
 
-* Студент: [Слава Кочнев](https://up.htmlacademy.ru/react-individual/3/user/2114051).
-* Наставник: `Неизвестно`.
+* Студент: [Слава Кочнев](https://up.htmlacademy.ru/ecmascript-individual/2/user/2114051).
+* Наставник: [Александр Сударев](https://htmlacademy.ru/profile/id1152185).
 
 ---
 
